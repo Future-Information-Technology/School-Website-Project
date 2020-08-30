@@ -1,0 +1,13 @@
+* Photo Slide
+* About University
+* Rector's Message
+* Vision
+* Mission
+* Motto
+* Achievement
+  - Polish departments
+  - Teachers
+  - Majors
+* Job opportunity (Link => major section)
+* Latest News
+* Latest Events
