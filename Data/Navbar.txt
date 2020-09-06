@@ -1,0 +1,28 @@
+Navigation Bar
+=============
+
++ Home
++ About TUMLM
++ Acadamic
+  - Course & Syllabus
++ Department
+  - Rector Office
+  - Engineerin Departments
+  - Supporting Departments
+  - Management Departments
++ Library
+  - E-books Center
+  - Library
++ Research
++ Conference
++ News & Events
+  - Upcoming events
+  - News
+  - Events
+  - Exam Result
++ Clubs & Socities
+  - SU
+  - etc..
++ Contact Us
++ Sign in, Sign up
+
