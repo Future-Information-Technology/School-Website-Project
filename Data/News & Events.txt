@@ -6,6 +6,7 @@ News and Events
   - Date
   - Photo
   - Event Discription
+  - Add to G-Calendar
   - Comments
 
 
@@ -36,4 +37,4 @@ News and Events
 
 
 + Exam Result
-  1. View the past academic years
+  1. View the exam results of past academic years
