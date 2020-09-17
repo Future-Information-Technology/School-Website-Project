@@ -1,0 +1,39 @@
+News and Events
+===============
+
++ Upcoming Events
+  - Event Title
+  - Date
+  - Photo
+  - Event Discription
+  - Comments
+
+
++ News
+  + Sort By
+    - Latest First
+    - Oldest First
+  + Post
+    - Photo
+    - Title
+    - Date
+    - Discription
+    - Comments
+
+
++ Events
+  + Sort By
+    - Latest First
+    - Oldest First
+    - Major
+      -> Civil, EC, EP, Mech, IT
+  + Post
+    - Title
+    - Date
+    - Photo
+    - Description
+    - Comments
+
+
++ Exam Result
+  1. View the past academic years

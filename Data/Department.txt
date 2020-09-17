@@ -1,0 +1,19 @@
+Rector's Office
+===============
+Photo
+Biography
+Education
+Research
+Contact
+
+Departments
+===========
+- Photo
+- About Department
+- Motto (or) Quote, Vission, Mission
+- Department Members (Photo, Name, About, Phone, Email)
+- Lab and Practical
+- Research (Link)
+- Project (Link)
+- Curriculum (Link)
+- Contact Info (Building No, Phone, Email)

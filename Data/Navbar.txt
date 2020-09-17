@@ -7,12 +7,12 @@ Navigation Bar
   - Course & Syllabus
 + Department
   - Rector Office
-  - Engineerin Departments
+  - Engineering Departments
   - Supporting Departments
   - Management Departments
 + Library
   - E-books Center
-  - Library
+  - Library Info
 + Research
 + Conference
 + News & Events
