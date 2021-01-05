@@ -1,0 +1,17 @@
+Research
+========
+
+- Defination of Research
++ Civil
++ EC
++ EP
++ Mech
++ IT
+   -> Research Name
+   -> Research Title
+   -> Description
+   -> Download Research Paper
+
+
+Ref : https://www.uit.edu.mm/research-labs/#
+Ref : https://ytu.edu.mm/research/

@@ -1,0 +1,14 @@
+Contact Us
+=========
+
+- Who do you want to contact
+  -> Rector's Office
+  -> Departments
+  -> Student affairs
+  -> SU
+  -> Clubs (Option)
+
+- Address
+- Phone
+- Email
+- Facebook Page

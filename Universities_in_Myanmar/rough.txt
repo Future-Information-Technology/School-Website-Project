@@ -1,0 +1,37 @@
+	
+	Technology University
+
+
+01.Yangon Technological University					https://ytu.edu.mm/
+02.Mandalay Technological University				https://www.mtu.edu.mm/
+03.Technological University Mandalay				https://www.tum-mandalay.edu.mm/index.php
+04.PYAY Technological University					http://www.ptu.edu.mm
+05.West Yangon Technological University				http://wytu.edu.mm/
+06.Technological University, Thanlyin				http://www.ttu.edu.mm/
+07.Technological University, Hmawbi					http://www.hbtu.edu.mm/
+08.Technological University, Banmaw					http://www.banmawtu.edu.mm
+09.Technological University, Myitkyina				http://www.tumka.edu.mm
+10.Technological University, Kyaukse				https://www.kyauksetu.edu.mm/
+11.Technological University, Meiktila				http://tumeiktila.edu.mm/
+12.Technological University, Yamethin				http://www.tuymt.edu.mm
+13.Technological University, Lashio					http://www.tulashio.edu.mm
+14.Technological University, Taunggyi				http://www.tutaunggyi.edu.mm
+15.Technological University, Kyaing Tong			http://www.tukt.edu.mm
+16.Technological University, PangLong				http://tuplon.edu.mm/
+17.Technological University, Loikaw					http://tuloikaw.edu.mm/
+18.Technological University, Monywa					http://www.tumonywa.edu.mm
+19.Technological University, Kalay					http://www.tukalay.edu.mm
+20.Technological University, Pakokku				https://tupku.edu.mm/
+21.Technological University, Magway					http://www.tumg.edu.mm
+22.Technological University, Toungoo				http://www.tutoungoo.edu.mm
+23.Technological University, Sittwe					http://tusty.moe.edu.mm/
+24.Technological University, Hinthata				http://www.tuhtd.edu.mm
+25.Technological University, Pathein				http://patheintu.edu.mm/
+26.Technological University, Maubin					https://www.tumaubin.edu.mm/
+27.Technological University, Myeik					http://www.tumyeik.edu.mm
+28.Technological University, Hpa-AN					http://www.tuhpn.edu.mm
+29.Technological University, Mawlamyine				http://tumawlamyine.edu.mm/
+30.Technological University, Dawei					http://www.tudawei.edu.mm
+31.Technological University, Sagaing				http://www.tusagaing.edu.mm
+32.University Of Technology(Yatanarpon Cyber City)	https://www.utycc.edu.mm/
+

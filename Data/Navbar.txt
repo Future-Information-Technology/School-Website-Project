@@ -11,8 +11,6 @@ Navigation Bar
   - Supporting Departments
   - Management Departments
 + Library
-  - E-books Center
-  - Library Info
 + Research
 + Conference
 + News & Events

@@ -1,0 +1,29 @@
+Acadamic
+=======
+
++ Course & Syllabus
+  - Years
+    -> First Year
+         ...
+    -> Six Year
+
+         -> Majors 
+	      -> Civil
+		  ...
+  	      -> IT
+
+		  -> First Sem
+		     =========
+
+			 Subject Code 		      Course 			Lectuer teacher
+			  EM-11001		Engineering Maths		.......	
+
+		  -> Second Sem
+ 		     ==========
+			Subject Code 		      Course 			Lecture teacher
+			  EM-11002		Engineering Maths		.......
+
++ Statistics
+  - 2020-2021
+    - Number of teacher
+    - Number of student
