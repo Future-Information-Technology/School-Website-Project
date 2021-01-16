@@ -4,10 +4,14 @@ News and Events
 + Upcoming Events
   - Event Title
   - Date
-  - Photo
+  - Photo / Videos
   - Event Discription
   - Add to G-Calendar
-  - Comments
+
+
+
+
+
 
 
 + News
@@ -19,7 +23,10 @@ News and Events
     - Title
     - Date
     - Discription
-    - Comments
+
+
+
+
 
 
 + Events
@@ -31,9 +38,14 @@ News and Events
   + Post
     - Title
     - Date
-    - Photo
+    - Photo/ Video
     - Description
-    - Comments
+
+
+
+
+
+
 
 
 + Exam Result
