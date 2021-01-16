@@ -1,0 +1,19 @@
+Footer
+======
+
++ Contact Us
+    -> Email
+    -> Phone
+    -> Physical Address
+    -> Facebook Page Link
+    -> Google Map with Icon
++ Quick Links
+    -> About
+    -> Department (Random)
+        - Rector (Or) Engineering (Or) Supporting (Or) Management 
+    -> News & Event (two links)
+    -> FAQs
+    -> Popular Links
++ Subscription Email (Like YTU)
++ Copyright
++ DevelopedBy FIT
